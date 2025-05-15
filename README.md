@@ -15,9 +15,9 @@ This repository serves to demonstrate how the project's analyst:
 - Visualizes insights clearly for stakeholders and decision-makers
 
 It includes:
-- Custom data wrangling in Python (Pandas, NumPy)
+- Custom data wrangling in Python (Pandas, NumPy, re)
 - Descriptive analytics and aggregation
-- Data visualizations (Matplotlib, Seaborn, Plotly)
+- Data visualizations (Matplotlib, Seaborn, Plotly, dash)
 - Stakeholder-oriented insights and reporting
 
 ---
