@@ -1,0 +1,2 @@
+# Think-Career-Mentorship-Program-Data-Analysis-Impact-Report
+Data analysis project for the Think Career Mentorship Program by Think Africa Ry. This repository showcases data cleaning, exploratory analysis, and impactful visualizations using Python. The analysis evaluates the program's outcomes and supports strategic decisions, stakeholder reporting, and fundraising. Note: The data is available upon request!.
