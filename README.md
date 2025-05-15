@@ -53,10 +53,10 @@ This analysis addresses the following core questions:
 
 This repository contains:
 
-- ✅ **Python notebooks** for cleaning, analyzing, and visualizing the data (`Think_career_Data_Analysis.ipynb`)
-- ✅ Visualizations of key metrics and trends (e.g., bar charts, heatmaps)
+- ✅ **Python notebooks** for cleaning, analyzing, and visualizing the data (`Think_career_Data_Analysis.ipynb`) (in the main branch)
+- ✅ Visualizations of key metrics and trends (e.g., bar charts, heatmaps) (in the created visuals branch)
 - ✅ Documents containing data stories and detailed recommendations:
-  - `Think Career Impact Data Story.docx`
+  - `Think Career Impact Data Story.docx` (in the main branch)
 > 💡 Visualizations and outputs are designed to be **easily updatable** when new data (e.g., from 2025) becomes available.
 
 ---
