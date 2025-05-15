@@ -79,7 +79,6 @@ Highlights of the analysis include:
 ## 👤 Author
 
 **Thacienne Uwimanayantumye**  
-📧 thacienne.uwimanayantumye@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/thacienne-uwimanayantumye)  
 🌐 [Data Portfolio](https://thacienne-uwimanayantumye-data-portfolio.vercel.app/)
 
@@ -87,7 +86,7 @@ Highlights of the analysis include:
 
 ## 🤝 Contributing
 
-This repository is not accepting public contributions due to the private nature of the data. However, if you're interested in collaboration, mentoring, or discussing similar initiatives, feel free to contact the author.
+This repository is not accepting public contributions due to the private nature of the data. However, if you're interested in collaboration, mentoring, or discussing similar initiatives, don't hesitate to contact the author.
 
 ---
 
