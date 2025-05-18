@@ -40,7 +40,6 @@ This analysis addresses the following core questions:
 - What industries are represented among mentees and mentors?
 - What are the countries of origin for both groups?
 - How does **mentee-to-mentor supply and demand** compare?
-- How many mentees and mentors were educated in Finland?
 - What are the typical **years of experience**?
 - How many participants were **unique**, and how many participated more than once?
 - Which Finnish cities are most represented?
@@ -53,10 +52,10 @@ This analysis addresses the following core questions:
 
 This repository contains:
 
-- ✅ **Python notebooks** for cleaning, analyzing, and visualizing the data (`Think_career_Data_Analysis.ipynb`) (in the main branch)
-- ✅ Visualizations of key metrics and trends (e.g., bar charts, heatmaps) (in the created visuals branch)
-- ✅ Documents containing data stories and detailed recommendations:
-  - `Think Career Impact Data Story.docx` (in the main branch)
+- ✅ **Python notebooks** for cleaning, analyzing, and visualizing the data (`Think_career_Data_Analysis.ipynb`)
+- ✅ Visualizations of key metrics and trends (e.g., bar charts, heatmaps)
+- ✅ Documents containing data stories written by the analyst and her detailed recommendations to the program's coordinators:
+  - `Think Career Impact Data Story.docx`
 > 💡 Visualizations and outputs are designed to be **easily updatable** when new data (e.g., from 2025) becomes available.
 
 ---
